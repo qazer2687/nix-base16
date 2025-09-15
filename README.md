@@ -11,13 +11,13 @@ Minimal wrapper for Base16 schemes on NixOS. 🎨
 
 let
   # choose any scheme in the flake by filename
-  gruvbox = base16 "gruvbox";
+  scheme = base16 "gruvbox";
 in {
   console.colors = [
-    gruvbox.base00 gruvbox.base08 gruvbox.base0B gruvbox.base0A
-    gruvbox.base0D gruvbox.base0E gruvbox.base0C gruvbox.base05
-    gruvbox.base03 gruvbox.base08 gruvbox.base0B gruvbox.base0A
-    gruvbox.base0D gruvbox.base0E gruvbox.base0C gruvbox.base07
+    scheme.base00 scheme.base08 scheme.base0B scheme.base0A
+    scheme.base0D scheme.base0E scheme.base0C scheme.base05
+    scheme.base03 scheme.base08 scheme.base0B scheme.base0A
+    scheme.base0D scheme.base0E scheme.base0C scheme.base07
   ];
 }
 ```
