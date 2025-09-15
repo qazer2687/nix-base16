@@ -6,7 +6,7 @@ Source:   https://github.com/chriskempson/base16-unclaimed-schemes
 */
 {
   base00 = "#1C2023";
-  base01 = "#393F45";
+  base01 = "#393f45";
   base02 = "#565E65";
   base03 = "#747C84";
   base04 = "#ADB3BA";
