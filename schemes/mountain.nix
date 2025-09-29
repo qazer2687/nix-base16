@@ -6,6 +6,11 @@ author: gnsfujiwara (https://github.com/gnsfujiwara)
 variant: dark
 */
 
+/*
+Firefox Theme (Textfox):
+https://color.firefox.com/?theme=XQAAAAINAQAAAAAAAABBKYhm849SCia3ftKEGccwS-xMDPrzes6Uaaq-qy5QgqeHG4Lmc6XPilPBk9N8bckdMyiMMntFWuiKrkRR-lab9pJeil84qfkzxFiORVWsVw4h933L4DdMvabBTfx4_FHKBihKPNQvpAUoyTco3IOI4BXpGQl1-usJkEh-ToektKM0kHwUeCdWJEP5LaAx0_erU0ufpjX_0kGCAA
+*/
+
 {
   base00 = "#0f0f0f";
   base01 = "#191919";
