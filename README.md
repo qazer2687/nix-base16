@@ -21,3 +21,7 @@ in {
   ];
 }
 ```
+
+### License
+This project is licensed under GPLv3.
+Color schemes are from tinted-theming/schemes (MIT License, see LICENSE.MIT).
